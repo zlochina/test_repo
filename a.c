@@ -19,3 +19,5 @@ int main(void) {
   printf("Initi programm\n");
   return new_feature(5);
 }
+
+int lol() { return 123; }
